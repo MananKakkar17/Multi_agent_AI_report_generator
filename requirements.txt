@@ -3,6 +3,11 @@ langchain>=0.3.0
 langchain-core>=0.3.0
 langchain-community>=0.3.0
 
+
+# Web App
+streamlit>=1.35.0
+
+
 # Mistral
 langchain-mistralai>=0.2.0
 mistralai>=1.0.0
