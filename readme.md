@@ -34,3 +34,9 @@ This is not a chatbot. This is not a simple Q&A tool. This is a production-level
 
     Critic --> Final([Final Research Report])
 
+
+
+
+DEPLOYED LIMK :(deployed on streamli community cloud)
+
+https://multiagentaireportgenerator-kvdyng2ngcr2pzsvkvwmkm.streamlit.app/
